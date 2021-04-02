@@ -1,0 +1,47 @@
+body{
+  margin: 0;
+  background-color: black;
+}
+
+.text{
+  font-family: 'Poppins', sans-serif;
+}
+.firstdiv{
+  background-image: url("images/randommatrix.jpg");
+  margin-bottom: 7.5px;
+}
+.toptext{
+  color: white;
+  margin: 0 auto 0 auto;
+  padding: 20px;
+  font-size: 40px;
+}
+
+.seconddiv{
+  background-image: url("images/codingbackground2.jpg");
+  margin: 0;
+}
+.middletext1{
+  color: white;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  font-size: 40px;
+  display: inline-block;
+}
+
+.thirddiv{
+  margin: 0;
+  background-image: url("images/microcontrollerbackground1.jpg")
+}
+.middletext2{
+  color: white;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  font-size: 40px;
+  display: inline-block;
+}
+
+.fourthdiv{
+  background-color: white;
+  margin: 0;
+}
